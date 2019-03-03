@@ -1,0 +1,27 @@
+Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria
+Number of cases of Malaria reported in children below 5 years of age
+Number of blood smears examined for Malaria
+Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria
+Number of cases of Malaria reported in children below 5 years of age
+Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis
+CasesReported
+OverForty
+Number of cases of Adolescent or Adult deaths (25 to 40) with the probable cause being Malaria
+Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Dengue
+Number of cases of Dengue reported in children below 5 years of age
+Number of blood smears examined for Dengue
+Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Dengue
+Number of cases of Dengue reported in children below 5 years of age
+Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis
+Number of cases of Adolescent or Adult deaths (25 to 40) with the probable cause being Dengue
+Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis
+Number of cases of Tuberculosis reported in children below 5 years of age
+Number of blood smears examined for Tuberculosis
+Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis
+Number of cases of Tuberculosis reported in children below 5 years of age
+Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis
+Number of cases of Adolescent or Adult deaths (25 to 40) with the probable cause being Tuberculosis
+graphTwelve
+graphTwo
+graphFive
+graphFour

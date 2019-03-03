@@ -1,0 +1,8 @@
+Dr Lal PathLabs - CUTTACK,25.269402, 82.991646,1,False
+Sumantis Healthcare Private Limited,25.279133, 82.997811,2,True
+VIMTA BLOOD DIAGNOSTIC LABS, 25.278842, 83.000229,3,True
+Medilab Daignostitc Varanasi, 25.284601, 82.978952,4,True
+APEX DIAGNOSTIC,25.275021, 83.010442,5,False
+Dr. Lal Pathlabs,25.309913, 83.004504,6,True
+
+

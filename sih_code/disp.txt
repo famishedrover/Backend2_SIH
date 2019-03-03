@@ -1,0 +1,7 @@
+ESIC Dispensary,25.309286, 82.974030,21,D,0
+M.A.T. Memorial Charitable Dispensary,25.311288, 83.001573,22,D,0
+Bharat Homoeo Research Centre,25.279409, 82.997767,23,D,0
+Radix Dispensary,25.292898, 82.967667,24,D,0
+Rana Dispensary,25.344283, 82.987881,25,D,0
+Dr. Bhagwan Das Gupta dispensary,25.373410, 83.008165,26,D,0
+Sarkar Dispensary Dr. A.k mishra,25.318463, 82.980999,27,D,0
